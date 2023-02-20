@@ -1,0 +1,16 @@
+{
+	"name": "BALDIS BASICS IN FLAPPY BIRD",
+	"short_name": "BALDIS BASICS IN FLAPPY BIRD",
+	"description": "BALDI",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "185x185",
+			"type": "image/png"
+		}
+	]
+}
